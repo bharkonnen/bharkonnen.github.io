@@ -14,7 +14,7 @@ github_username:  bharkonnen
 
 # Build settings
 markdown:         kramdown
-remote_theme:     broccolini/athena
+remote_theme:     broccolini/swiss
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
