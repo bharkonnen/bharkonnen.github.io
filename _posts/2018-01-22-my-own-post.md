@@ -3,6 +3,7 @@ layout: post
 title:  "Writing My Own Post"
 date:   2018-01-22
 categories: [ jekyll, post, whatever ]
+permalink: /post/
 ---
 
 ## Apply your markdown knowledge!
